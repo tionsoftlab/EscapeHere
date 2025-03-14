@@ -8,7 +8,7 @@ Python 기반 3D 멀티 총 게임
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=SuQizGALstA"><img src="http://
-    img.youtube.com/vi/SuQizGALstA/0.jpg" alt="Demo" width="70%"></a>
+    img.youtube.com/vi/SuQizGALstA/0.jpg?v=2" alt="Demo" width="70%"></a>
 </p>
 
 <p align="center">
