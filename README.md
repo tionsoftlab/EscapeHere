@@ -11,7 +11,9 @@ Python 기반 3D 멀티 총 게임
     img.youtube.com/vi/SuQizGALstA/0.jpg" alt="Demo" width="70%"></a>
 </p>
 
-위를 클릭하면 유튜브 데모 영상을 시청하실 수 있습니다.
+<p align="center">
+    위를 클릭하면 유튜브 데모 영상을 시청하실 수 있습니다.
+</p>
 
 <p align="center">
     <img src="docs/demo.webp" width="100%" alt="Demo Pic"/>
